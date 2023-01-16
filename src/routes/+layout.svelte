@@ -5,7 +5,7 @@
 
 <div class="app">
 	<Header />
-
+	<p>다수의 페이지에서 보여지는 공통의 레이아웃</p>
 	<main>
 		<slot />
 	</main>
